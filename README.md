@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Blindess Gateway</h1>
-<h3 align="center">Computer Science isn't just a subject in your grade</h3>
+<h1 align="left">Hello, I'm Blindess Gateway</h1>
+<h3 align="left">Computer Science isn't just a subject in your grade</h3>
 
 - 🔭 I’m currently working on **everything**
 
